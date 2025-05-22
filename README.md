@@ -1,9 +1,3 @@
-# BandSystem
-C++ console app to manage client accounts (CRUD). Stores data in Clients_data_file.txt. Features: input validation, interactive menus. Usage: Compile with g++, run, follow prompts. Data format: #//# separator.
-
-=====
-
-
 Client Management System
 Overview
 A console-based application for managing client accounts. Built in C++, it supports adding, deleting, updating, and searching for clients, with all changes saved to a text file.
